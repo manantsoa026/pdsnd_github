@@ -1,3 +1,6 @@
+#
+# This is final Udacity project that explore bike share date with Python
+#
 import time
 import pandas as pd
 import numpy as np

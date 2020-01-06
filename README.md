@@ -13,5 +13,6 @@ This is the last part of the course.
 chicago.csv new_york_city.csv washington.csv
 
 ### Credits
-Udacity The tutors and lectures and the website https://pandas.pydata.org/pandas-docs/stable/
+Udacity The tutors and lectures from https://classroom.udacity.com/nanodegrees/nd104-ent/dashboard/overview 
+and the panda documentation website https://pandas.pydata.org/pandas-docs/stable/
 

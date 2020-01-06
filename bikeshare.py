@@ -209,6 +209,7 @@ def main():
         user_stats(df)
         display_data(df)
 
+        # Ask the user if they want to restart their request 
         restart = input('\nWould you like to restart? Enter yes or no : \n')
         if restart.lower() != 'yes':
             break
